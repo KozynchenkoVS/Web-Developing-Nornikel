@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wykkl3Ckb1r4in6ongrEfMs8td2BWit60+biUmPuJk4HMa82QKEBsN2AR4mS3oRnWAIIXYChTBC2XsBDJYKXSQ==",
+  "dgSpecHash": "Joz/6vwO0bo7m9G+5CfMVmp7A0kxzLkASMSdkNFKsr8D+WRCPlczJn6NTqCfkUdXoM3dGTV+129ut8nFid6nHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Лавандос\\source\\repos\\DB_1\\DB_1\\DB_1.csproj",
+  "projectFilePath": "C:\\Users\\Лавандос\\source\\repos\\DB_1\\DB Entity Framework Linq\\DB_1\\DB_1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Лавандос\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Лавандос\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

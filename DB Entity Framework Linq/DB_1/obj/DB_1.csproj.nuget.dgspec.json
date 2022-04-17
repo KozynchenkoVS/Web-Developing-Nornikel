@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Лавандос\\source\\repos\\DB_1\\DB_1\\DB_1.csproj": {}
+    "C:\\Users\\Лавандос\\source\\repos\\DB_1\\DB Entity Framework Linq\\DB_1\\DB_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Лавандос\\source\\repos\\DB_1\\DB_1\\DB_1.csproj": {
+    "C:\\Users\\Лавандос\\source\\repos\\DB_1\\DB Entity Framework Linq\\DB_1\\DB_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Лавандос\\source\\repos\\DB_1\\DB_1\\DB_1.csproj",
+        "projectUniqueName": "C:\\Users\\Лавандос\\source\\repos\\DB_1\\DB Entity Framework Linq\\DB_1\\DB_1.csproj",
         "projectName": "DB_1",
-        "projectPath": "C:\\Users\\Лавандос\\source\\repos\\DB_1\\DB_1\\DB_1.csproj",
+        "projectPath": "C:\\Users\\Лавандос\\source\\repos\\DB_1\\DB Entity Framework Linq\\DB_1\\DB_1.csproj",
         "packagesPath": "C:\\Users\\Лавандос\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Лавандос\\source\\repos\\DB_1\\DB_1\\obj\\",
+        "outputPath": "C:\\Users\\Лавандос\\source\\repos\\DB_1\\DB Entity Framework Linq\\DB_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Лавандос\\AppData\\Roaming\\NuGet\\NuGet.Config",
